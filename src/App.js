@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          My awosme react Acpp at LearnCodeOnline
+          Stef and Soph's Web App
         </p>
         
       </header>
